@@ -1,21 +1,17 @@
 # Site settings
-title: Thomas Zühlke
+title: Thomas Werner
 description: 'Business Card Page'
-url: 'http://thomas.zuehlke.family'
+url: 'https://www.thomas-werner.engineer'
 baseurl: ''
-profilepic: '/images/tzuehlke.jpg'
-bkimage: '/images/bk1.jpg'
-google_analytics: UA-XXXXXX-X
-font_awesome: 'XXXXXXXXXX.js'
+profilepic: '/images/twerner.jpg'
+bkimage: '/images/scott-webb-OxHPDs4WV8Y-unsplash.jpg'
+font_awesome: '53d7a3a62b.js'
 
 author:
-  name: 'Thomas Zühlke'
-  email: info@thomas-zuehlke.de
-  twitter_username: thomzuehlke
-#  facebook_username: joshgerdes
-  github_username:  tzuehlke
-  linkedin_username:  thomas-zühlke-889182165
-  meetup_name: Azure-Meetup-Rostock-MV
+  name: 'Thomas Werner'
+  email: mail@thomas-werner.engineer
+  github_username:  huddeldaddel
+  linkedin_username:  t-werner  
 
 # Build settings
 destination: _site
@@ -27,9 +23,7 @@ sass:
     style: compressed
 
 kramdown:
-  # use Github Flavored Markdown
   input: GFM
-  # do not replace newlines by <br>s
   hard_wrap: false
 
 #plugins: ['jekyll-paginate']

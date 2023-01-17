@@ -1,43 +1,61 @@
 # projects section data
-- name: Long running Azure Functions on Consumption Plan
-  gh_user: tzuehlke
-  repo: AzureFunction-TimeoutCheck
-  img: https://user-images.githubusercontent.com/32843441/147861707-a0c412ab-93d6-4fd2-86f4-2ef2b2722c47.png
 
-- name: Keycloak Dockerfile with SSH
-  gh_user: tzuehlke
-  repo: keycloakssh
-  img: https://user-images.githubusercontent.com/32843441/147859397-a1dbc63b-c58f-4536-ae8a-d51e17aa08ce.png
+- name: Retro-Carnage
+  gh_user: Retro-Carnage-Team
+  repo: retro-carnage
+  img: /images/104321045.jpeg
+  desc: The goal of this project is to take you back to the best part of your childhood. To do this, we are building a modern multidirectional scrolling shooter. Once finished, Retro-Carnage is going to be a worthy successor of classic video games like Ikari Warriors by SNK, War Zone by Core Design, or Dogs of War by Elite Systems.
 
-- name: Monopoly Money Manager
-  gh_user: tzuehlke
-  repo: MonopolyMoneyManager
-  img: https://user-images.githubusercontent.com/32843441/103153706-bad12c80-4792-11eb-880b-1bf966d6d2a1.png
+- name: MailBackup
+  gh_user: twerner
+  repo: mailbackup
+  img: /images/mail.png
+  desc: Commandline tool to download emails from an IMAP server and store them as EML files on your computer.
 
-- name: Azure Gremlin API
-  gh_user: tzuehlke
-  repo: AzGremlinRestApi
-  img: https://user-images.githubusercontent.com/32843441/103159777-d86fb780-47cd-11eb-9952-ea0242e0ab9d.png
+- name: Salesforce-Backup
+  gh_user: twerner
+  repo: salesforce-backup
+  img: /images/salesforce.png
+  desc: Performs automated backups of SalesForce.com export data locally or to either AWS or Azure.
 
-- name: Debug Container
-  gh_user: tzuehlke
-  repo: DebugContainer
-  img: https://user-images.githubusercontent.com/32843441/62822286-71724400-bb81-11e9-9c0b-59fe58dd39a8.png
+- name: Euler
+  gh_user: twerner
+  repo: euler
+  img: /images/220px-Leonhard_Euler_2.jpg
+  desc: Contains my attempts to find solutions for interesting math problems of https://projecteuler.net
 
-- name: Jekyll Theme
-  gh_user: tzuehlke
-  repo: jekyll-uno-timeline
-  img: https://raw.githubusercontent.com/tzuehlke/jekyll-uno-timeline/master/screenshot-overview.png
-  desc: This Jekyll Theme. Based on the Uno-Theme with a list of projects as timeline. Like a business card.
+- name: Breakout-Go
+  gh_user: twerner
+  repo: breakout-go
+  img: /images/breakout-go.jpg
+  desc: Breakout-GO is a Breakout clone for the ODROID-GO Game Kit written in C++.
 
-- name: Azure Automation Scripts
-  gh_user: tzuehlke
-  repo: scripts
-  #img: https://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png
-  img: https://docs.microsoft.com/de-de/powershell/media/index/ps_black_128.svg
-  desc: Some scripts that I used with Azure Automation. For example a VM Start/Stop script or a script for resetting a VPN tunnel.
+- name: Hex editor Plugin for NetBeans
+  gh_user: twerner
+  repo: nbhexedit
+  img: /images/hex.png
+  desc: This project provided a hex editor for the NetBeans IDE with text preview in different encodings.
 
-- name: Face API
-  gh_user: ArvatoSystems
-  repo: FaceApiWPF
-  img: https://raw.githubusercontent.com/ArvatoSystems/FaceApiWPF/master/FaceApiWPFScreenshot.png
+- name: MongoDB Plugin for NetBeans IDE
+  gh_user: huddeldaddel
+  repo: mongonb
+  img: /images/MongoDB_Logomark_ForestGreen.png
+  desc: This project provided a MongoDB integration in NetBeans when better tools where missing.
+
+- name: BeanShell Plugin for NetBeans IDE
+  gh_user: huddeldaddel
+  repo: nbbeanshell
+  img: /images/beanshell.png
+  desc: This project provided an interactive shell (based on BeanShell) in NetBeans before JShell existed.
+
+- name: Grab2Web
+  gh_user: twerner
+  repo: grab2web
+  img: https://github.com/huddeldaddel/grab2web/raw/master/grab2web.png
+  desc: This was one of my hobby projects back in 2004. The tools captures images from a webcam and uploads them to a FTP server.
+
+- name: Klickus
+  gh_user: twerner
+  repo: klickus
+  img: https://github.com/huddeldaddel/klickus/raw/master/Help/klickus.png
+  desc: A Clickomania clone written in Delphi
