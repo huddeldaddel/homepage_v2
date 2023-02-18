@@ -84,3 +84,14 @@ pre.highlight code,
 .panel-cover__divider {
   border-top: 1px solid rgba(1,1,1,0.14);
 }
+
+.navigation-wrapper.animated.bounceInDown.visible .navigation__item a {
+  color: #fff;
+  border-color: #fff;
+}
+
+.navigation-wrapper.animated.bounceInDown.visible .navigation__item a:hover {
+  color: #fff;
+  border-color: #fff;
+  opacity: 1;
+}
