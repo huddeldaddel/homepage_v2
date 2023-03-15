@@ -1,5 +1,11 @@
 # projects section data
 
+- name: Github Team Dashboard
+  gh_user: huddeldaddel
+  repo: gitlab-team-dashboard
+  img: /images/gitlab-dashboard.png
+  desc: This is a dynamic dashboard that displays the status of development projects managed in GitLab (on site or in the cloud). The dashboard is designed to be displayed on a TV screen or some large display.
+
 - name: Retro-Carnage
   gh_user: Retro-Carnage-Team
   repo: retro-carnage
@@ -7,31 +13,31 @@
   desc: The goal of this project is to take you back to the best part of your childhood. To do this, we are building a modern multidirectional scrolling shooter. Once finished, Retro-Carnage is going to be a worthy successor of classic video games like Ikari Warriors by SNK, War Zone by Core Design, or Dogs of War by Elite Systems.
 
 - name: MailBackup
-  gh_user: twerner
+  gh_user: huddeldaddel
   repo: mailbackup
   img: /images/mail.png
   desc: Commandline tool to download emails from an IMAP server and store them as EML files on your computer.
 
 - name: Salesforce-Backup
-  gh_user: twerner
+  gh_user: huddeldaddel
   repo: salesforce-backup
   img: /images/salesforce.png
   desc: Performs automated backups of SalesForce.com export data locally or to either AWS or Azure.
 
 - name: Euler
-  gh_user: twerner
+  gh_user: huddeldaddel
   repo: euler
   img: /images/220px-Leonhard_Euler_2.jpg
   desc: Contains my attempts to find solutions for interesting math problems of https://projecteuler.net
 
 - name: Breakout-Go
-  gh_user: twerner
+  gh_user: huddeldaddel
   repo: breakout-go
   img: /images/breakout-go.jpg
   desc: Breakout-GO is a Breakout clone for the ODROID-GO Game Kit written in C++.
 
 - name: Hex editor Plugin for NetBeans
-  gh_user: twerner
+  gh_user: huddeldaddel
   repo: nbhexedit
   img: /images/hex.png
   desc: This project provided a hex editor for the NetBeans IDE with text preview in different encodings.
@@ -49,13 +55,13 @@
   desc: This project provided an interactive shell (based on BeanShell) in NetBeans before JShell existed.
 
 - name: Grab2Web
-  gh_user: twerner
+  gh_user: huddeldaddel
   repo: grab2web
   img: https://github.com/huddeldaddel/grab2web/raw/master/grab2web.png
   desc: This was one of my hobby projects back in 2004. The tools captures images from a webcam and uploads them to a FTP server.
 
 - name: Klickus
-  gh_user: twerner
+  gh_user: huddeldaddel
   repo: klickus
   img: https://github.com/huddeldaddel/klickus/raw/master/Help/klickus.png
   desc: A Clickomania clone written in Delphi
